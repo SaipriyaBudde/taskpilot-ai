@@ -23,7 +23,7 @@ This creates:
 
 ---
 
-## 💡 Our Solution
+## 💡 Solution
 
 TaskPilot AI bridges the gap between **intention and execution**.
 
