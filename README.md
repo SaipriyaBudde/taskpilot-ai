@@ -98,11 +98,11 @@ AI Processing Layer (Task Structuring + Prioritization)
 Execution Engine (Strategy + Flow Generation)
         ↓
 Frontend Dashboard (Clear Action Plan)
-
+```
 
 ## 📁 Project Structure
 
-
+```
 taskpilot-ai/
 ├── backend/
 │   └── app/
