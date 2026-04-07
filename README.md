@@ -99,9 +99,11 @@ Execution Engine (Strategy + Flow Generation)
         ↓
 Frontend Dashboard (Clear Action Plan)
 
+```
+
 ## 📁 Project Structure
 
-```text
+
 taskpilot-ai/
 ├── backend/
 │   └── app/
@@ -123,6 +125,7 @@ cd backend
 uvicorn app.main:app --reload
 Runs on:  
 [http://127.0.0.1:8000](http://127.0.0.1:8000)
+```
 
 ### Frontend
 
@@ -132,3 +135,4 @@ npm install
 npm run dev
 Runs on:  
 [http://localhost:5173](http://localhost:5173)
+```
