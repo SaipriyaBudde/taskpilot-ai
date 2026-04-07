@@ -99,7 +99,6 @@ Execution Engine (Strategy + Flow Generation)
         ↓
 Frontend Dashboard (Clear Action Plan)
 
-```
 
 ## 📁 Project Structure
 
@@ -115,6 +114,7 @@ taskpilot-ai/
 │   │   └── main.jsx
 │   └── package.json
 └── README.md
+```
 
 ## Running Locally
 
